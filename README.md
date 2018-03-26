@@ -5,7 +5,9 @@
 `setup.py` 为主程序.  
 `Texts` 存放英文文本(格式必须是utf-8编码不带BOM)，及程序从中分析出的单词     
 `Users` 存放用户信息，及用户的专用词库   
-`Lexicon` 存放单词词库，包括四六级单词，及用户定义的词库(必须是utf-8编码格式不带BOM)    
+`Lexicon` 存放单词词库，包括四六级单词，及用户定义的词库(必须是utf-8编码格式不带BOM) 
+
+# ![intro](https://raw.githubusercontent.com/clouduan/Flags-Ideas-Temp/master/Icons/002-yuan.png) Introduction
 ## 1.启动    
 推荐在idle中打开`setup.py`并运行，不推荐在terminal运行（注意要在程序所在目录运行，否则会导致文件的相对路径出错！）   
 ## 2.登录   
@@ -19,3 +21,7 @@
 点击`功能`-`查词`，输入要翻译的单词，按回车。程序默认先在本地查找，查询不到再进行网络查找。   
 ## 6.析词   
 点击`功能`-`分析`，选取一篇文本，即可分析出里面的四六级单词并保存（在./Texts文件夹下），一般等待时长为5~10秒左右。   
+
+# ![license](https://github.com/clouduan/Flags-Ideas-Temp/blob/master/Icons/001-license-1.png) License
+
+[MIT](https://github.com/clouduan/WordPlayer/blob/master/LICENSE)
