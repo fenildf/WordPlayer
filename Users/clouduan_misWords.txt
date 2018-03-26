@@ -1,0 +1,5 @@
+prestige   威严
+knack   诀窍
+lore   学问
+buggy   马车
+finality   最终性

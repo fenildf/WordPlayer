@@ -1,0 +1,542 @@
+﻿John von Neumann
+From Wikipedia, the free encyclopedia
+
+John von Neumann (/vɒn ˈnɔɪmən/; Hungarian: Neumann János Lajos, pronounced [ˈnɒjmɒn ˈjaːnoʃ ˈlɒjoʃ]; December 28, 1903 – February 8, 1957) was a Hungarian-American mathematician, physicist, inventor, computer scientist, and polymath. He made major contributions to a number of fields, including mathematics (foundations of mathematics, functional analysis, ergodic theory, geometry, topology, and numerical analysis), physics (quantum mechanics, hydrodynamics, and quantum statistical mechanics), economics (game theory), computing (Von Neumann architecture, linear programming, self-replicating machines, stochastic computing), and statistics.
+He was a pioneer of the application of operator theory to quantum mechanics, in the development of functional analysis, and a key figure in the development of game theory and the concepts of cellular automata, the universal constructor and the digital computer. He published over 150 papers in his life: about 60 in pure mathematics, 20 in physics, and 60 in applied mathematics, the remainder being on special mathematical subjects or non-mathematical ones.[2] His last work, an unfinished manuscript written while in the hospital, was later published in book form as The Computer and the Brain.
+His analysis of the structure of self-replication preceded the discovery of the structure of DNA. In a short list of facts about his life he submitted to the National Academy of Sciences, he stated "The part of my work I consider most essential is that on quantum mechanics, which developed in Göttingen in 1926, and subsequently in Berlin in 1927–1929. Also, my work on various forms of operator theory, Berlin 1930 and Princeton 1935–1939; on the ergodic theorem, Princeton, 1931–1932."
+During World War II he worked on the Manhattan Project, developing the mathematical models behind the explosive lenses used in the implosion-type nuclear weapon. After the war, he served on the General Advisory Committee of the United States Atomic Energy Commission, and later as one of its commissioners. He was a consultant to a number of organizations, including the United States Air Force, the Army's Ballistic Research Laboratory, the Armed Forces Special Weapons Project, and the Lawrence Livermore National Laboratory. Along with theoretical physicist Edward Teller, mathematician Stanislaw Ulam, and others, he worked out key steps in the nuclear physics involved in thermonuclear reactions and the hydrogen bomb.
+Contents  [hide] 
+1	Early life and education
+1.1	Family background
+1.2	Child prodigy
+1.3	University studies
+2	Early career and private life
+3	Mathematics
+3.1	Set theory
+3.2	Ergodic theory
+3.3	Operator theory
+3.4	Measure theory
+3.5	Lattice theory
+3.6	Mathematical formulation of quantum mechanics
+3.7	Quantum logic
+3.8	Game theory
+3.9	Mathematical economics
+3.10	Linear programming
+3.11	Mathematical statistics
+3.12	Fluid dynamics
+3.13	Mastery of mathematics
+4	Nuclear weapons
+4.1	Manhattan Project
+4.2	Atomic Energy Commission
+4.3	Mutual assured destruction
+5	Computing
+5.1	Cellular automata, DNA and the universal constructor
+5.2	Weather systems
+6	Cognitive abilities
+7	Mathematical legacy
+8	Death
+9	Honors
+10	Selected works
+11	See also
+12	Notes
+13	References
+14	Further reading
+15	External links
+Early life and education[edit]
+Family background[edit]
+Von Neumann was born Neumann János Lajos to a wealthy, acculturated and non-observant Jewish family (in Hungarian the family name comes first and his given names equate to John Lewis in English). His Hebrew name was Yonah. Von Neumann's place of birth was Budapest in the Kingdom of Hungary which was then part of the Austro-Hungarian Empire.[3][4][5] He was the eldest of three children. He had two younger brothers: Michael, born in 1907, and Nicholas, who was born in 1911.[6] His father, Neumann Miksa (English: Max Neumann) was a banker, who held a doctorate in law. He had moved to Budapest from Pécs at the end of the 1880s.[7] Miksa's father and grandfather were both born in Ond (now part of the town of Szerencs), Zemplén County, northern Hungary. John's mother was Kann Margit (English: Margaret Kann);[8] her parents were Jakab Kann and Katalin Meisels.[9] Three generations of the Kann family lived in spacious apartments above the Kann-Heller offices in Budapest; von Neumann's family occupied an 18-room apartment on the top floor.[10]
+In 1913, his father was elevated to the nobility for his service to the Austro-Hungarian Empire by Emperor Franz Joseph. The Neumann family thus acquired the hereditary appellation Margittai, meaning of Marghita. The family had no connection with the town; the appellation was chosen in reference to Margaret, as was those chosen coat of arms depicting three marguerites. Neumann János became Margittai Neumann János (John Neumann of Marghita), which he later changed to the German Johann von Neumann.[11]
+Child prodigy[edit]
+Von Neumann was a child prodigy. As a 6 year old, he could multiply and divide two 8-digit numbers in his head,[12][13] and could converse in Ancient Greek. When he once caught his mother staring aimlessly in front of her, the 6 year old von Neumann asked her: "What are you calculating?"[14]
+Formal schooling did not start in Hungary until the age of ten. Instead, governesses taught von Neumann, his brothers and his cousins. Max believed that knowledge of languages other than Hungarian was essential, so the children were tutored in English, French, German and Italian.[15] By the age of 8, von Neumann was familiar with differential and integral calculus,[16] but he was particularly interested in history, reading his way through Wilhelm Oncken's 46-volume Allgemeine Geschichte in Einzeldarstellungen.[17] A copy was contained in a private library Max purchased. One of the rooms in the apartment was converted into a library and reading room, with bookshelves from ceiling to floor.[18]
+Von Neumann entered the Lutheran Fasori Evangelikus Gimnázium in 1911. This was one of the best schools in Budapest, part of a brilliant education system designed for the elite. Under the Hungarian system, children received all their education at the one gymnasium. Despite being run by the Lutheran Church, the majority of its pupils were Jewish.[19] The school system produced a generation noted for intellectual achievement, that included Theodore von Kármán (b. 1881), George de Hevesy (b. 1885), Leó Szilárd (b. 1898), Eugene Wigner (b. 1902), Edward Teller (b. 1908), and Paul Erdős (b. 1913).[20] Collectively, they were sometimes known as Martians.[21] Wigner was a year ahead of von Neumann at the Lutheran School.[22] When asked why the Hungary of his generation had produced so many geniuses, Wigner, who won the Nobel Prize in Physics in 1963, replied that von Neumann was the only genius.[23]
+First few von Neumann ordinals
+0		= Ø
+1	= { 0 }	= {Ø}
+2	= { 0, 1 }	= { Ø, {Ø} }
+3	= { 0, 1, 2 }	= { Ø, {Ø} , {Ø, {Ø}} }
+4	= { 0, 1, 2, 3 }	= { Ø, {Ø}, {Ø, {Ø}}, {Ø, {Ø}, {Ø, {Ø}}} }
+Although Max insisted von Neumann attend school at the grade level appropriate to his age, he agreed to hire private tutors to give him advanced instruction in those areas in which he had displayed an aptitude. At the age of 15, he began to study advanced calculus under the renowned analyst Gábor Szegő.[22] On their first meeting, Szegő was so astounded with the boy's mathematical talent that he was brought to tears.[24] Some of von Neumann's instant solutions to the problems in calculus posed by Szegő, sketched out on his father's stationery, are still on display at the von Neumann archive in Budapest.[22] By the age of 19, von Neumann had published two major mathematical papers, the second of which gave the modern definition of ordinal numbers, which superseded Georg Cantor's definition.[25] At the conclusion of his education at the gymnasium, von Neumann sat for and won the Eötvös Prize, a national prize for mathematics.[26]
+University studies[edit]
+Since there were few posts in Hungary for mathematicians, and those were not well-paid, his father wanted von Neumann to follow him into industry and therefore invest his time in a more financially useful endeavor than mathematics. Von Neumann and his father decided that the best career path was to become a chemical engineer. This was not something that von Neumann had much knowledge of, so it was arranged for him to take a two-year non-degree course in chemistry at the University of Berlin, after which he sat the entrance exam to the prestigious ETH Zurich,[27] which he passed in September 1923.[28] At the same time, von Neumann also entered Pázmány Péter University in Budapest,[29] as a Ph.D. candidate in mathematics. For his thesis, he chose to produce an axiomatization of Cantor's set theory.[30][31] He passed his final examinations for his Ph.D. soon after graduating from ETH Zurich in 1926. He then went to the University of Göttingen on a grant from the Rockefeller Foundation to study mathematics under David Hilbert.[32]
+Early career and private life[edit]
+
+Excerpt from the university calendars for 1928 and 1928/29 of the Friedrich-Wilhelms-Universität Berlin announcing Neumann's lectures on axiomatic set theory and logics, problems in quantum mechanics and special mathematical functions.
+Von Neumann's habilitation was completed on December 13, 1927, and he started his lectures as a privatdozent at the University of Berlin in 1928,[33] being the youngest person ever elected privatdozent in its history in any subject.[34] By the end of 1927, von Neumann had published twelve major papers in mathematics, and by the end of 1929, thirty-two papers, at a rate of nearly one major paper per month.[35] His reputed powers of memorization and recall allowed him to quickly memorize the pages of telephone directories, and recite the names, addresses and numbers therein.[17] In 1929, he briefly became a privatdozent at the University of Hamburg, where the prospects of becoming a tenured professor were better,[36] but in October of that year a better offer presented itself when he was invited to Princeton University in Princeton, New Jersey.[37]
+On New Year's Day in 1930, von Neumann married Mariette Kövesi, who had studied economics at Budapest University.[37] Before his marriage he was baptized a Catholic.[38] Max had died in 1929. None of the family had converted to Christianity while he was alive, but afterwards they all did.[39] Von Neumann and Mariette had one child, a daughter, Marina, who as of 2016 is a distinguished professor of business administration and public policy at the University of Michigan.[40] The couple divorced in 1937. In October 1938, von Neumann married Klara Dan, whom he had met during his last trips back to Budapest prior to the outbreak of World War II.[41]
+In 1933, von Neumann was offered a lifetime professorship on the faculty of the Institute for Advanced Study when the institute's plan to appoint Hermann Weyl fell through.[42] He remained a mathematics professor there until his death, although he announced his intention to resign and become a professor at large at the University of California shortly before.[43] His mother, brothers and in-laws followed von Neumann to the United States in 1939.[44] Von Neumann anglicized his first name to John, keeping the German-aristocratic surname of von Neumann. His brothers changed theirs to "Neumann" and "Vonneumann".[11] Von Neumann became a naturalized citizen of the United States in 1937, and immediately tried to become a lieutenant in the United States Army's Officers Reserve Corps. He passed the exams easily, but was ultimately rejected because of his age.[45] His prewar analysis of how France would stand up to Germany is often quoted. He said: "Oh, France won't matter."[46]
+The von Neumanns, Klara and John, were active socially within the Princeton academic community.[47] His white clapboard house at 26 Westcott Road was one of the largest in Princeton.[48] He took great care over his clothing, and would always wear formal suits, once riding down the Grand Canyon astride a mule in a three-piece pin-stripe.[49] Hilbert is reported to have asked at von Neumann's 1926 doctoral exam: "Pray, who is the candidate's tailor?" as he had never seen such beautiful evening clothes.[50]
+Von Neumann held a lifelong passion for ancient history, being renowned for his prodigious historical knowledge. A professor of Byzantine history at Princeton once said that von Neumann had greater expertise in Byzantine history than he did.[51]
+Von Neumann liked to eat and drink; his wife, Klara, said that he could count everything except calories. He enjoyed Yiddish and "off-color" humor (especially limericks).[16] He was a non-smoker.[52] At Princeton he received complaints for regularly playing extremely loud German march music on his gramophone, which distracted those in neighbouring offices, including Albert Einstein, from their work.[53] Von Neumann did some of his best work in noisy, chaotic environments, and once admonished his wife for preparing a quiet study for him to work in. He never used it, preferring the couple's living room with its television playing loudly.[54] Despite being a notoriously bad driver, he nonetheless enjoyed driving—frequently while reading a book—occasioning numerous arrests, as well as accidents. When Cuthbert Hurd hired him as a consultant to IBM, Hurd often quietly paid the fines for his traffic tickets.[55]
+Von Neumann's closest friend in the United States was mathematician Stanislaw Ulam. A later friend of Ulam's, Gian-Carlo Rota, wrote: "They would spend hours on end gossiping and giggling, swapping Jewish jokes, and drifting in and out of mathematical talk." When von Neumann was dying in hospital, every time Ulam would visit he would come prepared with a new collection of jokes to cheer up his friend.[56] He believed that much of his mathematical thought occurred intuitively, and he would often go to sleep with a problem unsolved, and know the answer immediately upon waking up.[54] Ulam noted that von Neumann's way of thinking might not be visual, but more of an aural one.[57]
+Mathematics[edit]
+Set theory[edit]
+See also: Von Neumann–Bernays–Gödel set theory
+The axiomatization of mathematics, on the model of Euclid's Elements, had reached new levels of rigour and breadth at the end of the 19th century, particularly in arithmetic, thanks to the axiom schema of Richard Dedekind and Charles Sanders Peirce, and in geometry, thanks to Hilbert's axioms.[58] But at the beginning of the 20th century, efforts to base mathematics on naive set theory suffered a setback due to Russell's paradox (on the set of all sets that do not belong to themselves).[59] The problem of an adequate axiomatization of set theory was resolved implicitly about twenty years later by Ernst Zermelo and Abraham Fraenkel. Zermelo–Fraenkel set theory provided a series of principles that allowed for the construction of the sets used in the everyday practice of mathematics, but they did not explicitly exclude the possibility of the existence of a set that belongs to itself. In his doctoral thesis of 1925, von Neumann demonstrated two techniques to exclude such sets—the axiom of foundation and the notion of class.[58]
+The axiom of foundation proposed that every set can be constructed from the bottom up in an ordered succession of steps by way of the principles of Zermelo and Fraenkel. If one set belongs to another then the first must necessarily come before the second in the succession. This excludes the possibility of a set belonging to itself. To demonstrate that the addition of this new axiom to the others did not produce contradictions, von Neumann introduced a method of demonstration, called the method of inner models, which later became an essential instrument in set theory.[58]
+The second approach to the problem of sets belonging to themselves took as its base the notion of class, and defines a set as a class which belongs to other classes, while a proper class is defined as a class which does not belong to other classes. Under the Zermelo–Fraenkel approach, the axioms impede the construction of a set of all sets which do not belong to themselves. In contrast, under the von Neumann approach, the class of all sets which do not belong to themselves can be constructed, but it is a proper class and not a set.[58]
+With this contribution of von Neumann, the axiomatic system of the theory of sets avoided the contradictions of earlier systems, and became usable as a foundation for mathematics, despite the lack of a proof of its consistency. The next question was whether it provided definitive answers to all mathematical questions that could be posed in it, or whether it might be improved by adding stronger axioms that could be used to prove a broader class of theorems. A strongly negative answer to whether it was definitive arrived in September 1930 at the historic mathematical Congress of Königsberg, in which Kurt Gödel announced his first theorem of incompleteness: the usual axiomatic systems are incomplete, in the sense that they cannot prove every truth which is expressible in their language. Moreover, every consistent extension of these systems would necessarily remain incomplete.[60]
+Less than a month later, von Neumann, who had participated at the Congress, communicated to Gödel an interesting consequence of his theorem: that the usual axiomatic systems are unable to demonstrate their own consistency.[60] However, Gödel had already discovered this consequence, now known as his second incompleteness theorem, and he sent von Neumann a preprint of his article containing both incompleteness theorems.[61] Von Neumann acknowledged Gödel's priority in his next letter.[62] He never thought much of "the American system of claiming personal priority for everything."[63]
+Ergodic theory[edit]
+Von Neumann made foundational contributions to ergodic theory, in a series of articles published in 1932.[64] Of the 1932 papers on ergodic theory, Paul Halmos writes that even "if von Neumann had never done anything else, they would have been sufficient to guarantee him mathematical immortality".[65] By then von Neumann had already written his famous articles on operator theory, and the application of this work was instrumental in the von Neumann mean ergodic theorem.[65]
+Operator theory[edit]
+Main article: Von Neumann algebra
+Von Neumann introduced the study of rings of operators, through the von Neumann algebras. A von Neumann algebra is a *-algebra of bounded operators on a Hilbert space that is closed in the weak operator topology and contains the identity operator.[66] The von Neumann bicommutant theorem shows that the analytic definition is equivalent to a purely algebraic definition as an algebra of symmetries.[67] The direct integral was introduced in 1949 by John von Neumann. One of von Neumann's analyses was to reduce the classification of von Neumann algebras on separable Hilbert spaces to the classification of factors.[68]
+Measure theory[edit]
+See also: Lifting theory
+In measure theory, the "problem of measure" for an n-dimensional Euclidean space Rn may be stated as: "does there exist a positive, normalized, invariant, and additive set function on the class of all subsets of Rn?"[65] The work of Felix Hausdorff and Stefan Banach had implied that the problem of measure has a positive solution if n = 1 or n = 2 and a negative solution (because of the Banach–Tarski paradox) in all other cases. Von Neumann's work argued that the "problem is essentially group-theoretic in character":[65] the existence of a measure could be determined by looking at the properties of the transformation group of the given space. The positive solution for spaces of dimension at most two, and the negative solution for higher dimensions, comes from the fact that the Euclidean group is a solvable group for dimension at most two, and is not solvable for higher dimensions. "Thus, according to von Neumann, it is the change of group that makes a difference, not the change of space."[65]
+In a number of von Neumann's papers, the methods of argument he employed are considered even more significant than the results. In anticipation of his later study of dimension theory in algebras of operators, von Neumann used results on equivalence by finite decomposition, and reformulated the problem of measure in terms of functions.[69] In his 1936 paper on analytic measure theory, he used the Haar theorem in the solution of Hilbert's fifth problem in the case of compact groups.[65][70] In 1938, he was awarded the Bôcher Memorial Prize for his work in analysis.[71]
+Lattice theory[edit]
+Between 1937 and 1939, Von Neumann worked on lattice theory, the theory of partially ordered sets in which every two elements have a greatest lower bound and a least upper bound. Von Neumann provided an abstract exploration of dimension in completed complemented modular topological lattices (properties that arise in the lattices of subspaces of inner product spaces): "Dimension is determined, up to a positive linear transformation, by the following two properties. It is conserved by perspective mappings ("perspectivities") and ordered by inclusion. The deepest part of the proof concerns the equivalence of perspectivity with "projectivity by decomposition"—of which a corollary is the transitivity of perspectivity."[72] Garrett Birkhoff writes: "John von Neumann's brilliant mind blazed over lattice theory like a meteor".[72]
+Von Neumann founded the field of continuous geometry based on lattice theoretic principles. Earlier, Menger and Birkhoff had axiomatized complex projective geometry in terms of the properties of its lattice of linear subspaces. Von Neumann, following his work on rings of operators, weakened those axioms to describe a broader class of lattices, the continuous geometries. While the dimensions of the subspaces of projective geometries are a discrete set (the non-negative integers), the dimensions of the elements of a continuous geometry can range continuously across the unit interval [0,1]. Von Neumann was motivated by his discovery of von Neumann algebras with a dimension function taking a continuous range of dimensions, and the first example of a continuous geometry other than projective space was the projections of the hyperfinite type II factor.[73][74]
+Additionally, "[I]n the general case, von Neumann proved the following basic representation theorem. Any complemented modular lattice L having a "basis" of n ≥ 4 pairwise perspective elements, is isomorphic with the lattice ℛ(R) of all principal right-ideals of a suitable regular ring R. This conclusion is the culmination of 140 pages of brilliant and incisive algebra involving entirely novel axioms. Anyone wishing to get an unforgettable impression of the razor edge of von Neumann's mind, need merely try to pursue this chain of exact reasoning for himself—realizing that often five pages of it were written down before breakfast, seated at a living room writing-table in a bathrobe."[72]
+Mathematical formulation of quantum mechanics[edit]
+See also: von Neumann entropy, Density matrix, Quantum mutual information, von Neumann measurement scheme, and Wave function collapse
+Quantum mechanics
+{\displaystyle {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle } {\displaystyle {\hat {H}}|\psi (t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi (t)\rangle }
+Schrödinger equation
+Introduction Glossary History
+Background[show]
+Fundamentals[show]
+Experiments[show]
+Formulations[show]
+Equations[show]
+Interpretations[show]
+Advanced topics[show]
+Scientists[show]
+v t e
+Von Neumann was the first to establish a rigorous mathematical framework for quantum mechanics, known as the Dirac–von Neumann axioms, with his 1932 work Mathematical Foundations of Quantum Mechanics.[69] After having completed the axiomatization of set theory, he began to confront the axiomatization of quantum mechanics. He realized, in 1926, that a state of a quantum system could be represented by a point in a (complex) Hilbert space that, in general, could be infinite-dimensional even for a single particle. In this formalism of quantum mechanics, observable quantities such as position or momentum are represented as linear operators acting on the Hilbert space associated with the quantum system.[75]
+The physics of quantum mechanics was thereby reduced to the mathematics of Hilbert spaces and linear operators acting on them. For example, the uncertainty principle, according to which the determination of the position of a particle prevents the determination of its momentum and vice versa, is translated into the non-commutativity of the two corresponding operators. This new mathematical formulation included as special cases the formulations of both Heisenberg and Schrödinger.[75] When Heisenberg was informed von Neumann had clarified the difference between an unbounded operator that was a self-adjoint operator and one that was merely symmetric, Heisenberg replied "Eh? What is the difference?"[76]
+Von Neumann's abstract treatment permitted him also to confront the foundational issue of determinism versus non-determinism, and in the book he presented a proof that the statistical results of quantum mechanics could not possibly be averages of an underlying set of determined "hidden variables," as in classical statistical mechanics. In 1966, John S. Bell published a paper arguing that the proof contained a conceptual error and was therefore invalid. However, in 2010, Jeffrey Bub argued that Bell had misconstrued von Neumann's proof, and pointed out that the proof, though not valid for all hidden variable theories, does rule out a well-defined and important subset. Bub also suggests that von Neumann was aware of this limitation, and that von Neumann did not claim that his proof completely ruled out hidden variable theories.[77]
+In any case, the proof inaugurated a line of research that ultimately led, through the work of Bell in 1964 on Bell's theorem, and the experiments of Alain Aspect in 1982, to the demonstration that quantum physics either requires a notion of reality substantially different from that of classical physics, or must include nonlocality in apparent violation of special relativity.[78]
+In a chapter of The Mathematical Foundations of Quantum Mechanics, von Neumann deeply analyzed the so-called measurement problem. He concluded that the entire physical universe could be made subject to the universal wave function. Since something "outside the calculation" was needed to collapse the wave function, von Neumann concluded that the collapse was caused by the consciousness of the experimenter (although this view was accepted by Eugene Wigner,[79] the Von Neumann–Wigner interpretation never gained acceptance amongst the majority of physicists).[80]
+Though theories of quantum mechanics continue to evolve to this day, there is a basic framework for the mathematical formalism of problems in quantum mechanics which underlies the majority of approaches and can be traced back to the mathematical formalisms and techniques first used by von Neumann. In other words, discussions about interpretation of the theory, and extensions to it, are now mostly conducted on the basis of shared assumptions about the mathematical foundations.[69]
+Quantum logic[edit]
+Main article: Quantum logic
+In a famous paper of 1936 with Garrett Birkhoff, the first work ever to introduce quantum logics,[81] von Neumann and Birkhoff first proved that quantum mechanics requires a propositional calculus substantially different from all classical logics and rigorously isolated a new algebraic structure for quantum logics. The concept of creating a propositional calculus for quantum logic was first outlined in a short section in von Neumann's 1932 work, but in 1936, the need for the new propositional calculus was demonstrated through several proofs. For example, photons cannot pass through two successive filters that are polarized perpendicularly (e.g., one horizontally and the other vertically), and therefore, a fortiori, it cannot pass if a third filter polarized diagonally is added to the other two, either before or after them in the succession, but if the third filter is added in between the other two, the photons will, indeed, pass through. This experimental fact is translatable into logic as the non-commutativity of conjunction {\displaystyle (A\land B)\neq (B\land A)} (A\land B)\neq (B\land A). It was also demonstrated that the laws of distribution of classical logic, {\displaystyle P\lor (Q\land R)=(P\lor Q)\land (P\lor R)} P\lor (Q\land R)=(P\lor Q)\land (P\lor R) and {\displaystyle P\land (Q\lor R)=(P\land Q)\lor (P\land R)} P\land (Q\lor R)=(P\land Q)\lor (P\land R), are not valid for quantum theory.[82]
+The reason for this is that a quantum disjunction, unlike the case for classical disjunction, can be true even when both of the disjuncts are false and this is, in turn, attributable to the fact that it is frequently the case, in quantum mechanics, that a pair of alternatives are semantically determinate, while each of its members are necessarily indeterminate. This latter property can be illustrated by a simple example. Suppose we are dealing with particles (such as electrons) of semi-integral spin (angular momentum) for which there are only two possible values: positive or negative. Then, a principle of indetermination establishes that the spin, relative to two different directions (e.g., x and y) results in a pair of incompatible quantities. Suppose that the state ɸ of a certain electron verifies the proposition "the spin of the electron in the x direction is positive." By the principle of indeterminacy, the value of the spin in the direction y will be completely indeterminate for ɸ. Hence, ɸ can verify neither the proposition "the spin in the direction of y is positive" nor the proposition "the spin in the direction of y is negative." Nevertheless, the disjunction of the propositions "the spin in the direction of y is positive or the spin in the direction of y is negative" must be true for ɸ. In the case of distribution, it is therefore possible to have a situation in which {\displaystyle A\land (B\lor C)=A\land 1=A} A\land (B\lor C)=A\land 1=A, while {\displaystyle (A\land B)\lor (A\land C)=0\lor 0=0} (A\land B)\lor (A\land C)=0\lor 0=0.[82]
+Von Neumann replaced classical logic with a logic constructed in orthomodular lattices (isomorphic to the lattice of subspaces of the Hilbert space of a given physical system).[83]
+Game theory[edit]
+Von Neumann founded the field of game theory as a mathematical discipline.[84] Von Neumann proved his minimax theorem in 1928. This theorem establishes that in zero-sum games with perfect information (i.e. in which players know at each time all moves that have taken place so far), there exists a pair of strategies for both players that allows each to minimize his maximum losses, hence the name minimax. When examining every possible strategy, a player must consider all the possible responses of his adversary. The player then plays out the strategy that will result in the minimization of his maximum loss.[85]
+Such strategies, which minimize the maximum loss for each player, are called optimal. Von Neumann showed that their minimaxes are equal (in absolute value) and contrary (in sign). Von Neumann improved and extended the minimax theorem to include games involving imperfect information and games with more than two players, publishing this result in his 1944 Theory of Games and Economic Behavior (written with Oskar Morgenstern). Morgenstern wrote a paper on game theory and thought he would show it to von Neumann because of his interest in the subject. He read it and said to Morgenstern that he should put more in it. This was repeated a couple of times, and then von Neumann became a coauthor and the paper became 100 pages long. Then it became a book. The public interest in this work was such that The New York Times ran a front-page story. In this book, von Neumann declared that economic theory needed to use functional analytic methods, especially convex sets and topological fixed-point theorem, rather than the traditional differential calculus, because the maximum-operator did not preserve differentiable functions.[84]
+Independently, Leonid Kantorovich's functional analytic work on mathematical economics also focused attention on optimization theory, non-differentiability, and vector lattices. Von Neumann's functional-analytic techniques—the use of duality pairings of real vector spaces to represent prices and quantities, the use of supporting and separating hyperplanes and convex sets, and fixed-point theory—have been the primary tools of mathematical economics ever since.[86]
+Mathematical economics[edit]
+Von Neumann raised the intellectual and mathematical level of economics in several stunning publications. For his model of an expanding economy, von Neumann proved the existence and uniqueness of an equilibrium using his generalization of the Brouwer fixed-point theorem.[84] Von Neumann's model of an expanding economy considered the matrix pencil  A − λB with nonnegative matrices A and B; von Neumann sought probability vectors p and q and a positive number λ that would solve the complementarity equation
+{\displaystyle p^{T}(A-\lambda B)q=0} {\displaystyle p^{T}(A-\lambda B)q=0}
+along with two inequality systems expressing economic efficiency. In this model, the (transposed) probability vector p represents the prices of the goods while the probability vector q represents the "intensity" at which the production process would run. The unique solution λ represents the growth factor which is 1 plus the rate of growth of the economy; the rate of growth equals the interest rate.[87][88]
+Von Neumann's results have been viewed as a special case of linear programming, where von Neumann's model uses only nonnegative matrices. The study of von Neumann's model of an expanding economy continues to interest mathematical economists with interests in computational economics.[89][90][91] This paper has been called the greatest paper in mathematical economics by several authors, who recognized its introduction of fixed-point theorems, linear inequalities, complementary slackness, and saddlepoint duality. In the proceedings of a conference on von Neumann's growth model, Paul Samuelson said that many mathematicians had developed methods useful to economists, but that von Neumann was unique in having made significant contributions to economic theory itself.[92]
+Von Neumann's famous 9-page paper started life as a talk at Princeton and then became a paper in German, which was eventually translated into English. His interest in economics that led to that paper began as follows: When lecturing at Berlin in 1928 and 1929 he spent his summers back home in Budapest, and so did the economist Nicholas Kaldor, and they hit it off. Kaldor recommended that von Neumann read a book by the mathematical economist Léon Walras. Von Neumann found some faults in that book and corrected them, for example, replacing equations by inequalities. He noticed that Walras's General Equilibrium Theory and Walras' Law, which led to systems of simultaneous linear equations, could produce the absurd result that the profit could be maximized by producing and selling a negative quantity of a product. He replaced the equations by inequalities, introduced dynamic equilibria, among other things, and eventually produced the paper.[93]
+Linear programming[edit]
+Building on his results on matrix games and on his model of an expanding economy, von Neumann invented the theory of duality in linear programming, after George Dantzig described his work in a few minutes, when an impatient von Neumann asked him to get to the point. Then, Dantzig listened dumbfounded while von Neumann provided an hour lecture on convex sets, fixed-point theory, and duality, conjecturing the equivalence between matrix games and linear programming.[94]
+Later, von Neumann suggested a new method of linear programming, using the homogeneous linear system of Gordan (1873), which was later popularized by Karmarkar's algorithm. Von Neumann's method used a pivoting algorithm between simplices, with the pivoting decision determined by a nonnegative least squares subproblem with a convexity constraint (projecting the zero-vector onto the convex hull of the active simplex). Von Neumann's algorithm was the first interior point method of linear programming.[94]
+Mathematical statistics[edit]
+Von Neumann made fundamental contributions to mathematical statistics. In 1941, he derived the exact distribution of the ratio of the mean square of successive differences to the sample variance for independent and identically normally distributed variables.[95] This ratio was applied to the residuals from regression models and is commonly known as the Durbin–Watson statistic[96] for testing the null hypothesis that the errors are serially independent against the alternative that they follow a stationary first order autoregression.[96]
+Subsequently, Denis Sargan and Alok Bhargava extended the results for testing if the errors on a regression model follow a Gaussian random walk (i.e., possess a unit root) against the alternative that they are a stationary first order autoregression.[97]
+Fluid dynamics[edit]
+Von Neumann made fundamental contributions in exploration of problems in numerical hydrodynamics. For example, with Robert D. Richtmyer he developed an algorithm defining artificial viscosity that improved the understanding of shock waves. When computers solved hydrodynamic or aerodynamic problems, they tried to put too many computational grid points at regions of sharp discontinuity (shock waves). The mathematics of artificial viscosity smoothed the shock transition without sacrificing basic physics.[98] Other contributions to fluid dynamics included the classic flow solution to blast waves,[99] and the co-discovery of the ZND detonation model of explosives.[100] During the 1930s, Von Neumann became an authority on the mathematics of shaped charges.[101]
+Mastery of mathematics[edit]
+Stan Ulam, who knew von Neumann well, described his mastery of mathematics this way: "Most mathematicians know one method. For example, Norbert Wiener had mastered Fourier transforms. Some mathematicians have mastered two methods and might really impress someone who knows only one of them. John von Neumann had mastered three methods." He went on to explain that the three methods were:
+A facility with the symbolic manipulation of linear operators;
+An intuitive feeling for the logical structure of any new mathematical theory;
+An intuitive feeling for the combinatorial superstructure of new theories.[102]
+Edward Teller wrote that "Nobody knows all science, not even von Neumann did. But as for mathematics, he contributed to every part of it except number theory and topology. That is, I think, something unique."[103]
+Von Neumann was asked to write an essay for the layman describing what mathematics is, and produced a beautiful analysis. He explained that mathematics straddles the world between the empirical and logical.
+Geometry was originally empirical, but Euclid constructed a logical, deductive theory.
+Standards of rigor change over time.
+Calculus became real analysis with gradually increasing rigor.
+George Cantor invented a theory of sets that contained paradoxes involving infinite sets..
+Hilbert and others tried to remove the problematical parts of set theory and prove that the rest was consistent (free of contradictions).
+Then Kurt Gödel showed that you cannot prove the consistency of a system within the system itself, and that any sufficiently powerful set of axioms will produce an incomplete system, and so Hilbert's program was abandoned.
+Gödel proved that the axiom of choice and the continuum hypothesis were consistent with the other axioms of set theory, which meant they could be used to prove results.
+Von Neumann further explained that although mathematics is derived from empirical observations, a specialized topic may develop far beyond connections to the outside world, guided only by aesthetic criteria similar to other forms of art.
+However, there is always the danger of straying too far from the real world and becoming irrelevant sophistry.[104][105][106]
+Nuclear weapons[edit]
+
+Von Neumann's wartime Los Alamos ID badge photo
+Manhattan Project[edit]
+Beginning in the late 1930s, von Neumann developed an expertise in explosions—phenomena that are difficult to model mathematically. During this period von Neumann was the leading authority of the mathematics of shaped charges. This led him to a large number of military consultancies, primarily for the Navy, which in turn led to his involvement in the Manhattan Project. The involvement included frequent trips by train to the project's secret research facilities at the Los Alamos Laboratory.[29]
+Von Neumann's principal contribution to the atomic bomb was in the concept and design of the explosive lenses needed to compress the plutonium core of the Fat Man weapon that was later dropped on Nagasaki. While von Neumann did not originate the "implosion" concept, he was one of its most persistent proponents, encouraging its continued development against the instincts of many of his colleagues, who felt such a design to be unworkable. He also eventually came up with the idea of using more powerful shaped charges and less fissionable material to greatly increase the speed of "assembly".[107]
+When it turned out that there would not be enough uranium-235 to make more than one bomb, the implosive lens project was greatly expanded and von Neumann's idea was implemented. Implosion was the only method that could be used with the plutonium-239 that was available from the Hanford Site.[108] He established the design of the explosive lenses required, but there remained concerns about "edge effects" and imperfections in the explosives.[109] His calculations showed that implosion would work if it did not depart by more than 5% from spherical symmetry.[110] After a series of failed attempts with models, this was achieved by George Kistiakowsky, and the construction of the Trinity bomb was completed in July 1945.[111]
+In a visit to Los Alamos in September 1944, von Neumann showed that the pressure increase from explosion shock wave reflection from solid objects was greater than previously believed if the angle of incidence of the shock wave was between 90° and some limiting angle. As a result, it was determined that the effectiveness of an atomic bomb would be enhanced with detonation some kilometers above the target, rather than at ground level.[112][113]
+
+Implosion mechanism
+Along with four other scientists and various military personnel, von Neumann was included in the target selection committee responsible for choosing the Japanese cities of Hiroshima and Nagasaki as the first targets of the atomic bomb. Von Neumann oversaw computations related to the expected size of the bomb blasts, estimated death tolls, and the distance above the ground at which the bombs should be detonated for optimum shock wave propagation and thus maximum effect. The cultural capital Kyoto, which had been spared the bombing inflicted upon militarily significant cities, was von Neumann's first choice,[114] a selection seconded by Manhattan Project leader General Leslie Groves. However, this target was dismissed by Secretary of War Henry L. Stimson.[115]
+On July 16, 1945, with numerous other Manhattan Project personnel, von Neumann was an eyewitness to the first atomic bomb blast, code named Trinity, conducted as a test of the implosion method device, at the bombing range near Alamogordo Army Airfield, 35 miles (56 km) southeast of Socorro, New Mexico. Based on his observation alone, von Neumann estimated the test had resulted in a blast equivalent to 5 kilotons of TNT (21 TJ) but Enrico Fermi produced a more accurate estimate of 10 kilotons by dropping scraps of torn-up paper as the shock wave passed his location and watching how far they scattered. The actual power of the explosion had been between 20 and 22 kilotons.[116] It was in von Neumann's 1944 papers that the expression "kilotons" appeared for the first time.[117] After the war, Robert Oppenheimer remarked that the physicists involved in the Manhattan project had "known sin". Von Neumann's response was that "sometimes someone confesses a sin in order to take credit for it."[118]
+Von Neumann continued unperturbed in his work and became, along with Edward Teller, one of those who sustained the hydrogen bomb project. He collaborated with Klaus Fuchs on further development of the bomb, and in 1946 the two filed a secret patent on "Improvement in Methods and Means for Utilizing Nuclear Energy", which outlined a scheme for using a fission bomb to compress fusion fuel to initiate nuclear fusion.[119] The Fuchs–von Neumann patent used radiation implosion, but not in the same way as is used in what became the final hydrogen bomb design, the Teller–Ulam design. Their work was, however, incorporated into the "George" shot of Operation Greenhouse, which was instructive in testing out concepts that went into the final design.[120] The Fuchs–von Neumann work was passed on to the Soviet Union by Fuchs as part of his nuclear espionage, but it was not used in the Soviets' own, independent development of the Teller–Ulam design. The historian Jeremy Bernstein has pointed out that ironically, "John von Neumann and Klaus Fuchs, produced a brilliant invention in 1946 that could have changed the whole course of the development of the hydrogen bomb, but was not fully understood until after the bomb had been successfully made."[120]
+For his wartime services, von Neumann was awarded the Navy Distinguished Civilian Service Award in July 1946, and the Medal for Merit in October 1946.[121]
+Atomic Energy Commission[edit]
+In 1950, von Neumann became a consultant to the Weapons Systems Evaluation Group (WSEG),[122] whose function was to advise the Joint Chiefs of Staff and the United States Secretary of Defense on the development and use of new technologies.[123] He also became an adviser to the Armed Forces Special Weapons Project (AFSWP), which was responsible for the military aspects on nuclear weapons. Over the following two years, he became a consultant to the Central Intelligence Agency (CIA), a member of the influential General Advisory Committee of the Atomic Energy Commission, a consultant to the newly established Lawrence Livermore National Laboratory, and a member of the Scientific Advisory Group of the United States Air Force.[122]
+In 1955, von Neumann became a commissioner of the AEC. He accepted this position and used it to further the production of compact hydrogen bombs suitable for Intercontinental ballistic missile delivery. He involved himself in correcting the severe shortage of tritium and lithium 6 needed for these compact weapons, and he argued against settling for the intermediate range missiles that the Army wanted. He was adamant that H-bombs delivered into the heart of enemy territory by an ICBM would be the most effective weapon possible, and that the relative inaccuracy of the missile wouldn't be a problem with an H-bomb. He said the Russians would probably be building a similar weapon system, which turned out to be the case.[124][125] Despite his disagreement with Oppenheimer over the need for a crash program to develop the hydrogen bomb, he testified on the latter's behalf at the 1954 Oppenheimer security hearing, at which he asserted that Oppenheimer was loyal, and praised him for his helpfulness once the program went ahead.[16]
+Shortly before his death, when he was already quite ill, von Neumann headed the United States government's top secret ICBM committee, and it would sometimes meet in his home. Its purpose was to decide on the feasibility of building an ICBM large enough to carry a thermonuclear weapon. Von Neumann had long argued that while the technical obstacles were sizable, they could be overcome in time. The SM-65 Atlas passed its first fully functional test in 1959, two years after his death. The feasibility of an ICBM owed as much to improved, smaller warheads as it did to developments in rocketry, and his understanding of the former made his advice invaluable.[126]
+Mutual assured destruction[edit]
+
+Operation Redwing nuclear test in July 1956
+Von Neumann is credited with the equilibrium strategy of mutual assured destruction, providing the deliberately humorous acronym, MAD. (Other humorous acronyms coined by von Neumann include his computer, the Mathematical Analyzer, Numerical Integrator, and Computer—or MANIAC). He also "moved heaven and earth" to bring MAD about. His goal was to quickly develop ICBMs and the compact hydrogen bombs that they could deliver to the USSR, and he knew the Soviets were doing similar work because the CIA interviewed German rocket scientists who were allowed to return to Germany, and von Neumann had planted a dozen technical people in the CIA. The Russians considered that bombers would soon be vulnerable, and they shared von Neumann's view that an H-bomb in an ICBM was the ne plus ultra of weapons; they believed that whoever had superiority in these weapons would take over the world, without necessarily using them.[127] He was afraid of a "missile gap" and took several more steps to achieve his goal of keeping up with the Soviets:
+He modified the ENIAC by making it programmable and then wrote programs for it to do the H-bomb calculations verifying that the Teller-Ulam design was feasible and to develop it further.
+Through the Atomic Energy Commission, he promoted the development of a compact H-bomb that would fit in an ICBM.
+He personally interceded to speed up the production of lithium-6 and tritium needed for the compact bombs.
+He caused several separate missile projects to be started, because he felt that competition combined with collaboration got the best results.[128]
+Von Neumann's assessment that the Soviets had a lead in missile technology, considered pessimistic at the time, was soon proven correct in the Sputnik crisis.[129]
+Von Neumann entered government service primarily because he felt that, if freedom and civilization were to survive, it would have to be because the United States would triumph over totalitarianism from Nazism, Fascism and Soviet Communism.[49] During a Senate committee hearing he described his political ideology as "violently anti-communist, and much more militaristic than the norm". He was quoted in 1950 remarking, "If you say why not bomb [the Soviets] tomorrow, I say, why not today? If you say today at five o'clock, I say why not one o'clock?"[130]
+On February 15, 1956, von Neumann was presented with the Presidential Medal of Freedom by President Dwight D. Eisenhower. His citation read:
+Dr. von Neumann, in a series of scientific study projects of major national significance, has materially increased the scientific progress of this country in the armaments field.
+Through his work on various highly classified missions performed outside the continental limits of the United States in conjunction with critically important international programs, Dr. von Neumann has resolved some of the most difficult technical problems of national defense.[131]
+Computing[edit]
+
+Merge sort animation. The sorted elements are represented by dots.
+Von Neumann was a founding figure in computing.[132] Donald Knuth cites von Neumann as the inventor, in 1945, of the merge sort algorithm, in which the first and second halves of an array are each sorted recursively and then merged.[133][134] Von Neumann wrote the 23 pages long sorting program for the EDVAC in ink. On the first page, traces of the phrase "TOP SECRET", which was written in pencil and later erased, can still be seen.[134] He also worked on the philosophy of artificial intelligence with Alan Turing when the latter visited Princeton in the 1930s.[135]
+Von Neumann's hydrogen bomb work was played out in the realm of computing, where he and Stanislaw Ulam developed simulations on von Neumann's digital computers for the hydrodynamic computations. During this time he contributed to the development of the Monte Carlo method, which allowed solutions to complicated problems to be approximated using random numbers.[136] His algorithm for simulating a fair coin with a biased coin is used in the "software whitening" stage of some hardware random number generators.[137] Because using lists of "truly" random numbers was extremely slow, von Neumann developed a form of making pseudorandom numbers, using the middle-square method. Though this method has been criticized as crude, von Neumann was aware of this: he justified it as being faster than any other method at his disposal, writing that "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin."[138] Von Neumann also noted that when this method went awry it did so obviously, unlike other methods which could be subtly incorrect.[138]
+
+Von Neumann (left) and Robert Oppenheimer (right) in front of EDVAC
+While consulting for the Moore School of Electrical Engineering at the University of Pennsylvania on the EDVAC project, von Neumann wrote an incomplete First Draft of a Report on the EDVAC. The paper, whose premature distribution nullified the patent claims of EDVAC designers J. Presper Eckert and John Mauchly, described a computer architecture in which the data and the program are both stored in the computer's memory in the same address space.[139] This architecture is the basis of most modern computer designs, unlike the earliest computers that were "programmed" using a separate memory device such as a paper tape or plugboard. Although the single-memory, stored program architecture is commonly called von Neumann architecture as a result of von Neumann's paper, the architecture's description was based on the work of J. Presper Eckert and John William Mauchly, inventors of the ENIAC computer at the University of Pennsylvania.[139]
+John von Neumann consulted for the Army's Ballistic Research Laboratory, most notably on the ENIAC project,[140] as a member of its Scientific Advisory Committee.[141] The electronics of the new ENIAC ran at one-sixth the speed, but this in no way degraded the ENIAC's performance, since it was still entirely I/O bound. Complicated programs could be developed and debugged in days rather than the weeks required for plugboarding the old ENIAC. Some of von Neumann's early computer programs have been preserved.[142] The next computer that von Neumann designed was the IAS machine at the Institute for Advanced Study in Princeton, New Jersey. He arranged its financing, and the components were designed and built at the RCA Research Laboratory nearby. John von Neumann recommended that the IBM 701, nicknamed the defense computer include a magnetic drum. It was a faster version of the IAS machine and formed the basis for the commercially successful IBM 704.[143] [144]
+Stochastic computing was first introduced in a pioneering paper by von Neumann in 1953.[145] However, the theory could not be implemented until advances in computing of the 1960s.[146][147]
+Cellular automata, DNA and the universal constructor[edit]
+
+The first implementation of von Neumann's self-reproducing universal constructor.[148] Three generations of machine are shown: the second has nearly finished constructing the third. The lines running to the right are the tapes of genetic instructions, which are copied along with the body of the machines. The machine shown runs in a 32-state version of von Neumann's cellular automata environment, not his original 29-state specification.
+Von Neumann created the field of cellular automata without the aid of computers, constructing the first self-replicating automata with pencil and graph paper. The concept of a universal constructor based on the von Neumann cellular automaton was fleshed out in his posthumous work Theory of Self Reproducing Automata.[149] The von Neumann neighborhood, in which each cell in a two-dimensional grid has the four orthogonally adjacent grid cells as neighbors, continues to be used for other cellular automata. Von Neumann proved that the most effective way of performing large-scale mining operations such as mining an entire moon or asteroid belt would be by using self-replicating spacecraft, taking advantage of their exponential growth.[150] His rigorous mathematical analysis of the structure of self-replication (of the semiotic relationship between constructor, description and that which is constructed), preceded the discovery of the structure of DNA.[151] Beginning in 1949, von Neumann's design for a self-reproducing computer program is considered the world's first computer virus, and he is considered to be the theoretical father of computer virology.[152]
+Weather systems[edit]
+Von Neumann's team performed the world's first numerical weather forecasts on the ENIAC computer; von Neumann published the paper Numerical Integration of the Barotropic Vorticity Equation in 1950.[153] Von Neumann's interest in weather systems and meteorological prediction led him to propose manipulating the environment by spreading colorants on the polar ice caps to enhance absorption of solar radiation (by reducing the albedo).[154][155] thereby inducing global warming.[154][155] Von Neumann was the first scientist to propose the theory of global warming, noting that the Earth was only 6 °F (3.3 °C) colder during the last glacial period, he said that the burning of coal and oil would result in "a general warming of the Earth by about one degree Fahrenheit."[156]
+Cognitive abilities[edit]
+Von Neumann's ability to instantaneously perform complex operations in his head stunned other mathematicians.[157] As a 6 year old, he could divide two 8-digit numbers in his head.[158] When he was sent at the age of 15 to study advanced calculus under the renowned analyst Gábor Szegő, Szegő was so astounded with the boy's talent in mathematics that he was brought to tears on their first meeting.[24]
+The Nobel Laureate Hans Bethe speculated: "I have sometimes wondered whether a brain like von Neumann's does not indicate a species superior to that of man".[17] Eugene Wigner wrote that, seeing von Neumann's mind at work, "one had the impression of a perfect instrument whose gears were machined to mesh accurately to a thousandth of an inch."[159] Paul Halmos states that "von Neumann's speed was awe-inspiring."[16] Israel Halperin said: "Keeping up with him was ... impossible. The feeling was you were on a tricycle chasing a racing car."[160] Edward Teller admitted that he "never could keep up with him".[161] Teller also said "von Neumann would carry on a conversation with my 3-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us."[162] When George Dantzig brought von Neumann an unsolved problem in linear programming "as I would to an ordinary mortal", on which there had been no published literature, he was astonished when von Neumann said "Oh, that!", before offhandedly giving a lecture of over an hour, explaining how to solve the problem using the hitherto unconceived theory of duality.[163]
+Lothar Wolfgang Nordheim described von Neumann as the "fastest mind I ever met",[157] and Jacob Bronowski wrote "He was the cleverest man I ever knew, without exception. He was a genius."[164] George Pólya, whose lectures at ETH Zürich von Neumann attended as a student, said "Johnny was the only student I was ever afraid of. If in the course of a lecture I stated an unsolved problem, the chances were he'd come to me at the end of the lecture with the complete solution scribbled on a slip of paper."[165] Halmos recounts a story told by Nicholas Metropolis, concerning the speed of von Neumann's calculations, when somebody asked von Neumann to solve the famous fly puzzle:[166]
+Two bicyclists start twenty miles apart and head toward each other, each going at a steady rate of 10 mph. At the same time a fly that travels at a steady 15 mph starts from the front wheel of the southbound bicycle and flies to the front wheel of the northbound one, then turns around and flies to the front wheel of the southbound one again, and continues in this manner till he is crushed between the two front wheels. Question: what total distance did the fly cover? The slow way to find the answer is to calculate what distance the fly covers on the first, northbound, leg of the trip, then on the second, southbound, leg, then on the third, etc., etc., and, finally, to sum the infinite series so obtained. The quick way is to observe that the bicycles meet exactly one hour after their start, so that the fly had just an hour for his travels; the answer must therefore be 15 miles. When the question was put to von Neumann, he solved it in an instant, and thereby disappointed the questioner: "Oh, you must have heard the trick before!" "What trick?" asked von Neumann, "All I did was sum the geometric series."[16]
+Eugene Wigner told a similar story, only with a swallow instead of a fly, and says it was Max Born who posed the question to von Neumann in the 1920s.[167]
+Herman Goldstine wrote:
+One of his remarkable abilities was his power of absolute recall. As far as I could tell, von Neumann was able on once reading a book or article to quote it back verbatim; moreover, he could do it years later without hesitation. He could also translate it at no diminution in speed from its original language into English. On one occasion I tested his ability by asking him to tell me how A Tale of Two Cities started. Whereupon, without any pause, he immediately began to recite the first chapter and continued until asked to stop after about ten or fifteen minutes.[168]
+Von Neumann was reportedly able to memorize the pages of telephone directories, entertaining friends by reciting the names, addresses and numbers.[17][169]
+Mathematical legacy[edit]
+"It seems fair to say that if the influence of a scientist is interpreted broadly enough to include impact on fields beyond science proper, then John von Neumann was probably the most influential mathematician who ever lived," wrote Miklós Rédei in "Selected Letters." James Glimm wrote: "he is regarded as one of the giants of modern mathematics".[170] The mathematician Jean Dieudonné said that von Neumann "may have been the last representative of a once-flourishing and numerous group, the great mathematicians who were equally at home in pure and applied mathematics and who throughout their careers maintained a steady production in both directions",[171] while Peter Lax described him as possessing the "most scintillating intellect of this century".[172]
+Death[edit]
+
+Von Neumann's gravestone
+In 1955, von Neumann was diagnosed with what was either bone or pancreatic cancer.[173] He invited a Roman Catholic priest, Father Anselm Strittmatter, O.S.B., to visit him for consultation.[16] Von Neumann reportedly said in explanation that Pascal had a point, referring to Pascal's Wager.[174][175][176] Father Strittmatter administered the last rites to him.[16] Some of von Neumann's friends (such as Abraham Pais and Oskar Morgenstern) said they had always believed him to be "completely agnostic."[175][177] Of this deathbed conversion, Morgenstern told Heims, "He was of course completely agnostic all his life, and then he suddenly turned Catholic—it doesn't agree with anything whatsoever in his attitude, outlook and thinking when he was healthy."[178] Father Strittmatter recalled that von Neumann did not receive much peace or comfort from it, as he still remained terrified of death.[178]
+On his deathbed, Von Neumann entertained his brother by reciting, by heart and word-for-word, the first few lines of each page of Goethe's Faust.[5] He died at age 53 on February 8, 1957, at the Walter Reed Army Medical Center in Washington, D.C., under military security lest he reveal military secrets while heavily medicated. He was buried at Princeton Cemetery in Princeton, Mercer County, New Jersey.[179]
+Honors[edit]
+The John von Neumann Theory Prize of the Institute for Operations Research and the Management Sciences (INFORMS, previously TIMS-ORSA) is awarded annually to an individual (or group) who have made fundamental and sustained contributions to theory in operations research and the management sciences.[180]
+The IEEE John von Neumann Medal is awarded annually by the Institute of Electrical and Electronics Engineers (IEEE) "for outstanding achievements in computer-related science and technology."[181]
+The John von Neumann Lecture is given annually at the Society for Industrial and Applied Mathematics (SIAM) by a researcher who has contributed to applied mathematics, and the chosen lecturer is also awarded a monetary prize.[182]
+The crater von Neumann on the Moon is named after him.[183]
+The John von Neumann Center in Plainsboro Township, New Jersey, was named in his honour.[184]
+The professional society of Hungarian computer scientists, John von Neumann Computer Society, is named after John von Neumann.[185] It was closed in April 1989.[186]
+On May 4, 2005 the United States Postal Service issued the American Scientists commemorative postage stamp series, a set of four 37-cent self-adhesive stamps in several configurations designed by artist Victor Stabin. The scientists depicted were von Neumann, Barbara McClintock, Josiah Willard Gibbs, and Richard Feynman.[187]
+The John von Neumann Award of the Rajk László College for Advanced Studies was named in his honour, and has been given every year since 1995 to professors who have made an outstanding contribution to the exact social sciences and through their work have strongly influenced the professional development and thinking of the members of the college.[188]
+Selected works[edit]
+1923. On the introduction of transfinite numbers, 346–54.
+1925. An axiomatization of set theory, 393–413.
+1932. Mathematical Foundations of Quantum Mechanics, Beyer, R. T., trans., Princeton Univ. Press. 1996 edition: ISBN 0-691-02893-1.
+1937. von Neumann, John (1981). Halperin, Israel, ed. Continuous geometries with a transition probability. Memoirs of the American Mathematical Society. 34. ISBN 978-0-8218-2252-4. MR 634656.
+1944. Theory of Games and Economic Behavior, with Morgenstern, O., Princeton Univ. Press, online at archive.org. 2007 edition: ISBN 978-0-691-13061-3.
+1945. First Draft of a Report on the EDVAC TheFirstDraft.pdf
+1948. "The general and logical theory of automata," in Cerebral Mechanisms in Behavior: The Hixon Symposium, Jeffress, L.A. ed., John Wiley & Sons, New York, N. Y, 1951, pp. 1–31, MR 0045446.
+1960. von Neumann, John (1998). Continuous geometry. Princeton Landmarks in Mathematics. Princeton University Press. ISBN 978-0-691-05893-1. MR 0120174.
+1963. Collected Works of John von Neumann, Taub, A. H., ed., Pergamon Press. ISBN 0-08-009566-6
+1966. Theory of Self-Reproducing Automata, Burks, A. W., ed., University of Illinois Press. ISBN 0-598-37798-0[149]
+See also[edit]
+John von Neumann (sculpture), Eugene, Oregon
+List of things named after John von Neumann
+Self-replicating spacecraft
+Von Neumann–Bernays–Gödel set theory
+Von Neumann algebra
+Von Neumann architecture
+Von Neumann bicommutant theorem
+Von Neumann conjecture
+Von Neumann entropy
+Von Neumann programming languages
+Von Neumann regular ring
+Von Neumann universal constructor
+Von Neumann universe
+Von Neumann's trace inequality
+PhD students
+Donald B. Gillies, Ph.D. student[189]
+Israel Halperin, Ph.D. student[189][190]
+Notes[edit]
+Jump up ^ Dempster, M. A. H. (February 2011). "Benoit B. Mandelbrot (1924–2010): a father of Quantitative Finance" (PDF). Quantitative Finance. 11 (2): 155–156. doi:10.1080/14697688.2011.552332.
+Jump up ^ Doran et al. 2004, p. 8.
+Jump up ^ Doran et al. 2004, p. 1.
+Jump up ^ Myhrvold, Nathan (March 21, 1999). "John von Neumann". Time.
+^ Jump up to: a b Blair 1957, p. 104.
+Jump up ^ Macrae 1992, p. 46.
+Jump up ^ Macrae 1992, pp. 38–42.
+Jump up ^ Macrae 1992, pp. 37–38.
+Jump up ^ Macrae 1992, p. 39.
+Jump up ^ Macrae 1992, pp. 44–45.
+^ Jump up to: a b Macrae 1992, pp. 57–58.
+Jump up ^ Henderson 2007, p. 30.
+Jump up ^ Schneider, Gersting & Brinkman 2015, p. 28.
+Jump up ^ Mitchell 2009, p. 124.
+Jump up ^ Macrae 1992, pp. 46–47.
+^ Jump up to: a b c d e f g Halmos, P. R. (1973). "The Legend of von Neumann". The American Mathematical Monthly. 80 (4): 382–394. doi:10.2307/2319080. JSTOR 2319080.
+^ Jump up to: a b c d Blair 1957, p. 90.
+Jump up ^ Macrae 1992, p. 52.
+Jump up ^ Macrae 1992, pp. 64–65.
+Jump up ^ Doran et al. 2004, p. 3.
+Jump up ^ Macrae 1992, pp. 32–33.
+^ Jump up to: a b c Macrae 1992, pp. 70–71.
+Jump up ^ Macrae 1992, p. 32.
+^ Jump up to: a b Glimm, Impagliazzo & Singer 1990, p. 5.
+Jump up ^ Nasar 2001, p. 81.
+Jump up ^ Macrae 1992, p. 84.
+Jump up ^ Macrae 1992, pp. 85–87.
+Jump up ^ Macrae 1992, p. 97.
+^ Jump up to: a b Regis, Ed (November 8, 1992). "Johnny Jiggles the Planet". The New York Times. Retrieved February 4, 2008.
+Jump up ^ von Neumann, J. (1928). "Die Axiomatisierung der Mengenlehre". Mathematische Zeitschrift (in German). 27 (1): 669–752. doi:10.1007/BF01171122. ISSN 0025-5874.
+Jump up ^ Macrae 1992, pp. 86–87.
+Jump up ^ Macrae 1992, pp. 98–99.
+Jump up ^ Hashagen, Ulf (2010). "Die Habilitation von John von Neumann an der Friedrich-Wilhelms-Universität in Berlin: Urteile über einen ungarisch-jüdischen Mathematiker in Deutschland im Jahr 1927". Historia Mathematica. 37 (2): 242–280. doi:10.1016/j.hm.2009.04.002.
+Jump up ^ The History Of Game Theory, Volume 1: From the Beginnings to 1945, By Mary-Ann Dimand, Robert W Dimand, (Routledge, 2002), page 129
+Jump up ^ Macrae 1992, p. 145.
+Jump up ^ Macrae 1992, pp. 143–144.
+^ Jump up to: a b Macrae 1992, pp. 155–157.
+Jump up ^ Bochner, S. (1958). "John von Neumann; A Biographical Memoir" (PDF). National Academy of Sciences. Retrieved August 16, 2015.
+Jump up ^ Macrae 1992, pp. 43, 157.
+Jump up ^ "Marina Whitman". The Gerald R. Ford School of Public Policy at the University of Michigan. Retrieved January 5, 2015.
+Jump up ^ Macrae 1992, pp. 170–174.
+Jump up ^ Macrae 1992, pp. 167–168.
+Jump up ^ Macrae 1992, p. 371.
+Jump up ^ Macrae 1992, pp. 195–196.
+Jump up ^ Macrae 1992, pp. 190–195.
+Jump up ^ Ulam 1983, p. 70.
+Jump up ^ Macrae 1992, pp. 170–171.
+Jump up ^ Regis 1987, p. 103.
+^ Jump up to: a b "Conversation with Marina Whitman". Gray Watson (256.com). Retrieved January 30, 2011.
+Jump up ^ Poundstone, William (May 4, 2012). "Unleashing the Power". The New York Times.
+Jump up ^ Blair, pp. 89–104.
+Jump up ^ Macrae 1992, p. 150.
+Jump up ^ Macrae 1992, p. 48.
+^ Jump up to: a b Blair 1957, p. 94.
+Jump up ^ Stern, Nancy (January 20, 1981). "An Interview with Cuthbert C. Hurd". Charles Babbage Institute, University of Minnesota. Retrieved June 3, 2010.[dead link]
+Jump up ^ Rota 1989, pp. 26–27.
+Jump up ^ Macrae 1992, p. 75.
+^ Jump up to: a b c d Van Heijenoort 1967, pp. 393–394.
+Jump up ^ Macrae 1992, pp. 104–105.
+^ Jump up to: a b von Neumann 2005, p. 123.
+Jump up ^ Dawson 1997, p. 70.
+Jump up ^ von Neumann 2005, p. 124.
+Jump up ^ Macrae 1992, p. 182.
+Jump up ^ Two famous papers are: von Neumann, John (1932). "Proof of the Quasi-ergodic Hypothesis". Proc Natl Acad Sci USA. 18 (1): 70–82. Bibcode:1932PNAS...18...70N. doi:10.1073/pnas.18.1.70. PMC 1076162Freely accessible. PMID 16577432.. von Neumann, John (1932). "Physical Applications of the Ergodic Hypothesis". Proc Natl Acad Sci USA. 18 (3): 263–266. Bibcode:1932PNAS...18..263N. doi:10.1073/pnas.18.3.263. JSTOR 86260. PMC 1076204Freely accessible. PMID 16587674.. Hopf, Eberhard (1939). "Statistik der geodätischen Linien in Mannigfaltigkeiten negativer Krümmung". Leipzig Ber. Verhandl. Sächs. Akad. Wiss. 91: 261–304.
+^ Jump up to: a b c d e f Halmos, Paul R. (1958). "Von Neumann on measure and ergodic theory" (PDF). Bull. Amer. Math. Soc. 64 (3, Part 2): 86–94. doi:10.1090/S0002-9904-1958-10203-7.
+Jump up ^ Petz & Redi 1995, pp. 163–181.
+Jump up ^ "Von Neumann Algebras" (PDF). Princeton University. Retrieved January 6, 2016.
+Jump up ^ "Direct Integrals of Hilbert Spaces and von Neumann Algebras" (PDF). University of California at Los Angeles. Archived from the original (PDF) on 2015-07-02. Retrieved January 6, 2016.
+^ Jump up to: a b c Van Hove, Léon (1958). "Von Neumann's Contributions to Quantum Theory". Bulletin of the American Mathematical Society. 64 (3): 95–99. doi:10.1090/s0002-9904-1958-10206-2.
+Jump up ^ von Neumann, J. (1933). "Die Einfuhrung Analytischer Parameter in Topologischen Gruppen". Annals of Mathematics. 2. 34 (1): 170–179. doi:10.2307/1968347. JSTOR 1968347.
+Jump up ^ "AMS Bôcher Prize". MacTutor. January 5, 2016.
+^ Jump up to: a b c Birkhoff, Garrett (1958). "Von Neumann and lattice theory" (PDF). Bulletin of the American Mathematical Society. 64 (3): 50–56. doi:10.1090/S0002-9904-1958-10192-5. ISBN 0-8218-1025-1.
+Jump up ^ Macrae 1992, p. 140.
+Jump up ^ von Neumann, John (1930). "Zur Algebra der Funktionaloperationen und Theorie der normalen Operatoren". Mathematische Annalen (in German). 102 (1): 370–427. Bibcode:1930MatAn.102..685E. doi:10.1007/BF01782352.. The original paper on von Neumann algebras.
+^ Jump up to: a b Macrae 1992, pp. 139–141.
+Jump up ^ Macrae 1992, p. 142.
+Jump up ^ Bub, Jeffrey (2010). "Von Neumann's 'No Hidden Variables' Proof: A Re-Appraisal". Foundations of Physics. 40 (9–10): 1333–1340. arXiv:1006.0499Freely accessible. Bibcode:2010FoPh...40.1333B. doi:10.1007/s10701-010-9480-9.
+Jump up ^ Freire, Olival Jr. (2006). "Philosophy enters the optics laboratory: Bell's theorem and its first experimental tests (1965–1982)". Studies in History and Philosophy of Modern Physics. 37 (4): 577–616. Bibcode:2006SHPMP..37..577F. doi:10.1016/j.shpsb.2005.12.003.
+Jump up ^ Wigner, Eugene; Henry Margenau (December 1967). "Remarks on the Mind Body Question, in Symmetries and Reflections, Scientific Essays". American Journal of Physics. 35 (12): 1169–1170. Bibcode:1967AmJPh..35.1169W. doi:10.1119/1.1973829.
+Jump up ^ Schlosshauer, M.; Koer, J.; Zeilinger, A. (2013). "A Snapshot of Foundational Attitudes Toward Quantum Mechanics". Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics. 44 (3): 222–230. arXiv:1301.1069Freely accessible. Bibcode:2013SHPMP..44..222S. doi:10.1016/j.shpsb.2013.04.004.
+Jump up ^ Gabbay, Dov M.; Woods, John (2007). "The History of Quantum Logic". The Many Valued and Nonmonotonic Turn in Logic. Elsevier. pp. 205–2017. ISBN 978-0-08-054939-2.
+^ Jump up to: a b Birkhoff, Garrett; von Neumann, John (October 1936). "The Logic of Quantum Mechanics". Annals of Mathematics. 37 (4): 823–843. doi:10.2307/1968621. JSTOR 1968621.
+Jump up ^ Putnam, Hilary (1985). Philosophical Papers: Volume 3, Realism and Reason. Cambridge University Press. p. 263. ISBN 978-0-521-31394-0.
+^ Jump up to: a b c Kuhn, H. W.; Tucker, A. W. (1958). "John von Neumann's work in the theory of games and mathematical economics". Bull. Amer. Math. Soc. 64 (Part 2) (3): 100–122. doi:10.1090/s0002-9904-1958-10209-8. MR 0096572.
+Jump up ^ von Neumann, J: (1928). "Zur Theorie der Gesellschaftsspiele". Mathematische Annalen (in German). 100 (1928): 295–320. Bibcode:1928MatAn.100...32C. doi:10.1007/bf01448847.
+Jump up ^ Blume 2008.
+Jump up ^ For this problem to have a unique solution, it suffices that the nonnegative matrices A and B satisfy an irreducibility condition, generalizing that of the Perron–Frobenius theorem of nonnegative matrices, which considers the (simplified) eigenvalue problem
+A − λ I q = 0,
+where the nonnegative matrix A must be square and where the diagonal matrix I is the identity matrix. Von Neumann's irreducibility condition was called the "whales and wranglers" hypothesis by David Champernowne, who provided a verbal and economic commentary on the English translation of von Neumann's article. Von Neumann's hypothesis implied that every economic process used a positive amount of every economic good. Weaker "irreducibility" conditions were given by David Gale and by John Kemeny, Oskar Morgenstern, and Gerald L. Thompson in the 1950s and then by Stephen M. Robinson in the 1970s.
+Jump up ^ Morgenstern & Thompson 1976, pp. xviii, 277.
+Jump up ^ Rockafellar 1970, pp. i, 74.
+Jump up ^ Rockafellar 1974, pp. 351–378.
+Jump up ^ Ye 1997, pp. 277–299.
+Jump up ^ Bruckmann, Gerhart; Weber, Wilhelm, eds. (September 21, 1971). "Contributions to von Neumann's Growth Model". Proceedings of a Conference Organized by the Institute for Advanced Studies Vienna, Austria, July 6 and 7, 1970. Springer–Verlag. doi:10.1007/978-3-662-24667-2. ISBN 978-3-662-22738-1.
+Jump up ^ Macrae 1992, pp. 250–253.
+^ Jump up to: a b Dantzig, George; Thapa, Mukund N. (2003). Linear Programming : 2: Theory and Extensions. New York, NY: Springer-Verlag. ISBN 1-4419-3140-6.
+Jump up ^ von Neumann, John (1941). "Distribution of the ratio of the mean square successive difference to the variance". Annals of Mathematical Statistics. 12 (4): 367–395. doi:10.1214/aoms/1177731677. JSTOR 2235951.
+^ Jump up to: a b Durbin, J.; Watson, G. S. (1950). "Testing for Serial Correlation in Least Squares Regression, I". Biometrika. 37 (3–4): 409–428. doi:10.2307/2332391. PMID 14801065.
+Jump up ^ Sargan, J.D.; Bhargava, Alok (1983). "Testing residuals from least squares regression for being generated by the Gaussian random walk". Econometrica. 51: 153–174. doi:10.2307/1912252. JSTOR 1912252.
+Jump up ^ von Neumann, J.; Richtmyer, R. D. (March 1950). "A Method for the Numerical Calculation of Hydrodynamic Shocks". Journal of Applied Physics. 21 (3): 232–237. Bibcode:1950JAP....21..232V. doi:10.1063/1.1699639.
+Jump up ^ von Neumann 1963a, pp. 219–237.
+Jump up ^ von Neumann 1963b, pp. 205–218.
+Jump up ^ Ballistics: Theory and Design of Guns and Ammunition, Second Edition By Donald E. Carlucci, Sidney S. Jacobson, (CRC Press, 26 Aug 2013), page 523
+Jump up ^ Ulam 1983, p. 96.
+Jump up ^ Dyson 1998, p. 77.
+Jump up ^ "Von Neumann: The Mathematician". MacTutor History of Mathematics Archive. Retrieved December 16, 2016.
+Jump up ^ "Von Neumann: The Mathematician, Part 2". MacTutor History of Mathematics Archive. Retrieved December 16, 2016.
+Jump up ^ von Neumann 1947, pp. 180-196.
+Jump up ^ Hoddeson et al. 1993, pp. 130–133, 157–159.
+Jump up ^ Hoddeson et al. 1993, pp. 239–245.
+Jump up ^ Hoddeson et al. 1993, p. 295.
+Jump up ^ Sublette, Carey. "Section 8.0 The First Nuclear Weapons". Nuclear Weapons Frequently Asked Questions. Retrieved January 8, 2016.
+Jump up ^ Hoddeson et al. 1993, pp. 320–327.
+Jump up ^ Macrae 1992, p. 209.
+Jump up ^ Hoddeson et al. 1993, p. 184.
+Jump up ^ Macrae 1992, pp. 242–245.
+Jump up ^ Groves 1962, pp. 268–276.
+Jump up ^ Hoddeson et al. 1993, pp. 371–372.
+Jump up ^ Macrae 1992, p. 205.
+Jump up ^ Macrae 1992, p. 245.
+Jump up ^ Herken 2002, pp. 171, 374.
+^ Jump up to: a b Bernstein, Jeremy (2010). "John von Neumann and Klaus Fuchs: an Unlikely Collaboration". Physics in Perspective. 12: 36–50. Bibcode:2010PhP....12...36B. doi:10.1007/s00016-009-0001-1.
+Jump up ^ Macrae 1992, p. 208.
+^ Jump up to: a b Macrae 1992, pp. 350–351.
+Jump up ^ "Weapons' Values to be Appraised". Spokane Daily Chronicle. December 15, 1948. Retrieved January 8, 2015.
+Jump up ^ Heims 1980, p. 276.
+Jump up ^ Macrae 1992, pp. 367–369.
+Jump up ^ Macrae 1992, pp. 359–365.
+Jump up ^ Macrae 1992, pp. 362–363.
+Jump up ^ Heims 1980, pp. 258–260.
+Jump up ^ Macrae 1992, pp. 362–364.
+Jump up ^ Blair 1957, p. 96.
+Jump up ^ "Dwight D. Eisenhower: Citation Accompanying Medal of Freedom Presented to Dr. John von Neumann". The American Presidency Project.
+Jump up ^ Goldstine 1980, pp. 167–178.
+Jump up ^ Knuth 1998, p. 159.
+^ Jump up to: a b Knuth, Donald E. (1987). "Von Neumann's First Computer Program". In Aspray, W.; Burks, A. Papers of John von Neumann on computing and computer theory. Cambridge: MIT Press. pp. 89–95. ISBN 978-0-262-22030-9.
+Jump up ^ Macrae 1992, pp. 183–184.
+Jump up ^ Macrae 1992, pp. 334–335.
+Jump up ^ von Neumann, John (1951). "Various techniques used in connection with random digits". National Bureau of Standards Applied Math Series. 12: 36.
+^ Jump up to: a b Von Neumann, John (1951). "Various techniques used in connection with random digits" (PDF). National Bureau of Standards Applied Mathematics Series. 12: 36–38.
+^ Jump up to: a b The name for the architecture is discussed in John W. Mauchly and the Development of the ENIAC Computer, part of the online ENIAC museum, in Robert Slater's computer history book, Portraits in Silicon (MIT Press, 1989), and in Nancy Stern's book From ENIAC to UNIVAC (Digital Press,1981).
+Jump up ^ Macrae 1992, pp. 279–283.
+Jump up ^ "BRL's Scientific Advisory Committee, 1940". U.S. Army Research Laboratory. Retrieved July 26, 2016.
+Jump up ^ Knuth, Donald E. (1996). Selected papers on computer science (Center for the Study of Language and Information – Lecture Notes). Stanford, Calif. Cambridge, Mass.: CSLI Publications Cambridge University Press. ISBN 1-881526-91-7.
+Jump up ^ Rédei, Miklós (ed.). "Letter to R. S. Burlington.". John Von Neumann: Selected Letters. The American Mathematics Society and The London Mathematical Society. pp. 73 ff. ISBN 978-0-8218-9126-1.
+Jump up ^ Dyson 2012, pp. 267–268, 287.
+Jump up ^ von Neumann, John (1995). "Probabilistic logics and the synthesis of reliable organisms from unreliable components". In Bródy, F.; Vámos, Tibor. The Neumann Compendium. World Scientific. pp. 567–616. ISBN 978-981-02-2201-7.
+Jump up ^ Petrovic, R.; Siljak, D. (1962). "Multiplication by means of coincidence". ACTES Proc. of 3rd Int. Analog Comp. Meeting.
+Jump up ^ Afuso, C. (1964). "Quart. Tech. Prog. Rept". Department of Computer Science, University of Illinois at Urbana-Champaign, Illinois.
+Jump up ^ Pesavento, Umberto (1995), "An implementation of von Neumann's self-reproducing machine" (PDF), Artificial Life, MIT Press, 2 (4): 337–354, doi:10.1162/artl.1995.2.337, PMID 8942052, archived from the original (PDF) on June 21, 2007
+^ Jump up to: a b von Neumann, John (1966). Arthur W. Burks, ed. Theory of Self-Reproducing Automata (PDF) (PDF). Urbana and London: University of Illinois Press. ISBN 0-598-37798-0.
+Jump up ^ Freitas, Robert A., Jr. (1980). "A Self-Reproducing Interstellar Probe". Journal of the British Interplanetary Society. 33: 251–264. Bibcode:1980JBIS...33..251F. Retrieved January 9, 2015.
+Jump up ^ Rocha (2015), pp. 25–27.
+Jump up ^ Filiol 2005, pp. 19–38.
+Jump up ^ Charney, J. G.; Fjörtoft, R.; Neumann, J. (1950). "Numerical Integration of the Barotropic Vorticity Equation". Tellus. 2 (4): 237–254. doi:10.1111/j.2153-3490.1950.tb00336.x.
+^ Jump up to: a b Macrae 1992, p. 332.
+^ Jump up to: a b Heims 1980, pp. 236–247.
+Jump up ^ Macrae 1992, p. 16.
+^ Jump up to: a b Goldstine 1980, pp. 171.
+Jump up ^ Poundstone, William, Prisoner's Dilemma, New York: Doubleday 1992
+Jump up ^ Wigner, Mehra & Wightman 1995, p. 129.
+Jump up ^ Kaplan, Michael and Kaplan, Ellen (2006) Chances are–: adventures in probability. Viking.
+Jump up ^ Teller, Edward (April 1957). "John von Neumann". Bulletin of the Atomic Scientists. 13 (4): 150–151.
+Jump up ^ Nowak, Amram (1 January 1966). "John Von Neumann a documentary". Mathematical Association of America, Committee on Educational Media. OCLC 177660043.
+Jump up ^ Mirowski 2002, p. 258.
+Jump up ^ Bronowski 1974, p. 433.
+Jump up ^ Petković 2009, p. 157.
+Jump up ^ "Fly Puzzle (Two Trains Puzzle)". Mathworld.wolfram.com. February 15, 2014. Retrieved February 25, 2014.
+Jump up ^ "John von Neumann – A Documentary". The Mathematical Association of American. 1966. pp. 16m46s–19m04s. Retrieved 22 February 2016.
+Jump up ^ Goldstine 1980, pp. 167.
+Jump up ^ John von Neumann: Life, Work, and Legacy Institute of Advanced Study, Princeton
+Jump up ^ Glimm, Impagliazzo & Singer 1990, p. vii.
+Jump up ^ Dieudonné 2008, p. 90.
+Jump up ^ Glimm, Impagliazzo & Singer 1990, p. 7.
+Jump up ^ While there is a general agreement that the initially discovered bone tumour was a secondary growth, sources differ as to the location of the primary cancer. While Macrae gives it as pancreatic, the Life magazine article says it was prostate.
+Jump up ^ Macrae 1992, p. 379 "But Johnny had earlier said to his mother, 'There probably is a God. Many things are easier to explain if there is than if there isn't.' He also admitted jovially to Pascal's point: So long as there is the possibility of eternal damnation for nonbelievers it is more logical to be a believer at the end."
+^ Jump up to: a b Dransfield & Dransfield 2003, p. 124 "He was brought up in a Hungary in which anti-Semitism was commonplace, but the family were not overly religious, and for most of his adult years von Neumann held agnostic beliefs."
+Jump up ^ Ayoub 2004, p. 170 "On the other hand, von Neumann, giving in to Pascal's wager on his death bed, received extreme unction."
+Jump up ^ Pais 2006, p. 109 "He had been completely agnostic for as long as I had known him. As far as I could see this act did not agree with the attitudes and thoughts he had harbored for nearly all his life."
+^ Jump up to: a b Poundstone 1993, p. 194.
+Jump up ^ Macrae 1992, p. 380.
+Jump up ^ "John von Neumann Theory Prize". Institute for Operations Research and the Management Sciences. Retrieved May 17, 2016.
+Jump up ^ "IEEE John von Neumann Medal". Institute of Electrical and Electronics Engineers. Retrieved May 17, 2016.
+Jump up ^ "The John von Neumann Lecture". Society for Industrial and Applied Mathematics. Retrieved May 17, 2016.
+Jump up ^ "Von Neumann". United States Geological Survey. Retrieved May 17, 2016.
+Jump up ^ Anderson, Christopher (November 27, 1989). "NSF Supercomputer Program Looks Beyond Princeton Recall". The Scientist Magazine. Retrieved May 17, 2016.
+Jump up ^ "Introducing the John von Neumann Computer Society". John von Neumann Computer Society. Retrieved May 20, 2008.
+Jump up ^ Kent & Williams 1994, p. 321.
+Jump up ^ "American Scientists Issue". Smithsonian National Postal Museum. Retrieved May 17, 2016.
+Jump up ^ "John von Neumann Award". díjaink – Rajk. Retrieved May 17, 2016.
+^ Jump up to: a b John von Neumann at the Mathematics Genealogy Project. Retrieved March 17, 2015.
+Jump up ^ While Israel Halperin's thesis advisor is often listed as Salomon Bochner, this may be because "Professors at the university direct doctoral theses but those at the Institute do not. Unaware of this, in 1934 I asked von Neumann if he would direct my doctoral thesis. He replied Yes." (Halperin, Israel (1990). "The Extraordinary Inspiration of John von Neumann". Proceedings of Symposia in Pure Mathematics. Proceedings of Symposia in Pure Mathematics. 50: 15–17. doi:10.1090/pspum/050/1067747. ISBN 978-0-8218-1487-1.)
+References[edit]
+Ayoub, Raymond George (2004). Musings Of The Masters: An Anthology Of Mathematical Reflections. Washington, D.C.: MAA. ISBN 978-0-88385-549-2. OCLC 56537093.
+Blair, Clay, Jr. (February 25, 1957). "Passing of a Great Mind". Life: 89–104.
+Blume, Lawrence E. (2008). "Convexity". In Durlauf, Steven N.; Blume, Lawrence E. The New Palgrave Dictionary of Economics (Second ed.). New York: Palgrave Macmillan. doi:10.1057/9780230226203.0315.
+Bronowski, Jacob (1974). The Ascent of Man. Boston: Little, Brown. ISBN 978-0-316-56940-8. OCLC 763593.
+Dawson, John W., Jr. (1997). Logical Dilemmas: The Life and Work of Kurt Gödel. Wellesley, Massachusetts: A. K. Peters. ISBN 1-56881-256-6.
+Dieudonné, J. (2008). "Von Neumann, Johann (or John)". In Gillispie, C. C. Complete Dictionary of Scientific Biography. 14 (7th ed.). Detroit: Charles Scribner's Sons. pp. 88–92 Gale Virtual Reference Library. ISBN 978-0-684-31559-1. OCLC 187313311.
+Doran, Robert S.; von Neumann, John; Stone, Marshall Harvey; Kadison, Richard V. (2004). Operator Algebras, Quantization, and Noncommutative Geometry: A Centennial Celebration Honoring John Von Neumann and Marshall H. Stone. Washington, D.C.: American Mathematical Society. ISBN 978-0-8218-3402-2.
+Dransfield, Robert; Dransfield, Don (2003). Key Ideas in Economics. Cheltenham: Nelson Thornes. ISBN 978-0-7487-7081-6. OCLC 52395899.
+Dyson, George (1998). Darwin among the machines the evolution of global intelligence. Cambridge, Massachusetts: Perseus Books. ISBN 978-0-7382-0030-9. OCLC 757400572.
+Dyson, George (2012). Turing's Cathedral: the Origins of the Digital Universe. New York: Pantheon Books. ISBN 978-0-375-42277-5. OCLC 745979775.
+Filiol, Éric (2005). Computer viruses: from theory to applications, Volume 1. New York: Springer. pp. 9–38. ISBN 2-287-23939-1. OCLC 224779290.
+Glimm, James; Impagliazzo, John; Singer, Isadore Manuel (1990). The Legacy of John von Neumann. American Mathematical Society. ISBN 0-8218-4219-6.
+Goldstine, Herman (1980). The Computer from Pascal to von Neumann. Princeton University Press. ISBN 0-691-02367-0.
+Groves, Leslie (1962). Now it Can be Told: The Story of the Manhattan Project. New York: Harper & Row. ISBN 0-306-70738-1. OCLC 537684.
+Heims, Steve J. (1980). John von Neumann and Norbert Wiener, from Mathematics to the Technologies of Life and Death. Cambridge, Massachusetts: MIT Press. ISBN 0-262-08105-9.
+Henderson, Harry (2007). Mathematics: Powerful Patterns Into Nature and Society. New York: Chelsea House. ISBN 978-0-8160-5750-4. OCLC 840438801.
+Herken, Gregg (2002). Brotherhood of the Bomb: The Tangled Lives and Loyalties of Robert Oppenheimer, Ernest Lawrence, and Edward Teller. New York, New York: Holt Paperbacks. ISBN 978-0-8050-6589-3. OCLC 48941348.
+Hoddeson, Lillian; Henriksen, Paul W.; Meade, Roger A.; Westfall, Catherine L. (1993). Critical Assembly: A Technical History of Los Alamos During the Oppenheimer Years, 1943–1945. New York: Cambridge University Press. ISBN 0-521-44132-3. OCLC 26764320.
+Kent, Allen; Williams, James G., eds. (1994). Encyclopedia of Computer Science and Technology, Volume=30, Supplement 15. New York: Dekker. ISBN 978-0-8247-2283-8. OCLC 832033269.
+Knuth, Donald (1998). The Art of Computer Programming: Volume 3 Sorting and Searching. Boston: Addison-Wesley. ISBN 0-201-89685-0.
+Macrae, Norman (1992). John von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More. Pantheon Press. ISBN 0-679-41308-1.
+Mirowski, Philip (2002). Machine Dreams: Economics Becomes a Cyborg Science. New York: Cambridge University Press. ISBN 978-0-521-77283-9. OCLC 45636899.
+Mitchell, Melanie (2009). Complexity: A Guided Tour. New York: Oxford University Press. ISBN 978-0-19-512441-5. OCLC 216938473.
+Morgenstern, Oskar; Thompson, Gerald L. (1976). Mathematical Theory of Expanding and Contracting Economies. Lexington Books. Lexington, Massachusetts: D. C. Heath and Company. ISBN 0-669-00089-2.
+Nasar, Sylvia (2001). A Beautiful Mind : a Biography of John Forbes Nash, Jr., Winner of the Nobel Prize in Economics, 1994. London: Simon & Schuster. ISBN 0-7432-2457-4.
+Pais, Abraham (2006). J. Robert Oppenheimer: A Life. Oxford: Oxford University Press. ISBN 978-0-19-516673-6. OCLC 475574884.
+Petz, D.; Redi, M. R. (1995). "John von Neumann And The Theory Of Operator Algebras". The Neumann Compendium. Singapore: World Scientific. ISBN 981-02-2201-7. OCLC 32013468.
+Petković, Miodrag (2009). Famous puzzles of great mathematicians. American Mathematical Society. p. 157. ISBN 0-8218-4814-3.
+Poundstone, William (1993). Prisoner's Dilemma. Random House Digital. ISBN 978-0-385-41580-4.
+Regis, Ed (1987). Who Got Einstein's Office?: Eccentricity and Genius at the Institute for Advanced Study. Reading, Massachusetts: Addison-Wesley. ISBN 978-0-201-12065-3. OCLC 15548856.
+Rocha, L.M. (2015). "Von Neumann and Natural Selection". Lecture Notes of I-585-Biologically Inspired Computing Course, Indiana University (PDF). Retrieved February 6, 2016.
+Rockafellar, R. T. (1974). "Convex Algebra and Duality in Dynamic Models of production". In Loz, Josef; Loz, Maria. Mathematical Models in Economics (Proc. Sympos. and Conf. von Neumann Models, Warsaw, 1972). Amsterdam: Elsevier North-Holland Publishing and Polish Academy of Sciences (PAN). OCLC 839117596.
+Rockafellar, R. T. (1970). Convex analysis. Princeton, New Jersey: Princeton University Press. ISBN 0-691-08069-0. OCLC 64619.
+Rota, Gian-Carlo (1989). "The Lost Cafe". In Cooper, Necia Grant; Eckhardt, Roger; Shera, Nancy. From Cardinals To Chaos: Reflections On The Life And Legacy Of Stanislaw Ulam. Cambridge: Cambridge University Press. pp. 23–32. ISBN 978-0-521-36734-9. OCLC 18290810.
+Schneider, G. Michael; Gersting, Judith; Brinkman, Bo (2015). Invitation to Computer Science. Boston: Cengage Learning. ISBN 978-1-305-07577-1. OCLC 889643614.
+Ulam, Stanisław (1983). Adventures of a Mathematician. New York: Charles Scribner's Sons. ISBN 978-0-684-14391-0. OCLC 1528346.
+Van Heijenoort, Jean (1967). From Frege to Gödel: a Source Book in Mathematical Logic, 1879–1931. Cambridge, Massachusetts: Harvard University Press. ISBN 978-0-674-32450-3. OCLC 523838.
+von Neumann, John (1947). Heywood, Robert B., ed. The Works of the Mind: The Mathematician. Chicago: University of Chicago Press. OCLC 752682744.
+von Neumann, John (1963a). "The Point Source Solution". In Taub, A. H. John von Neumann. Collected Works, 1903–1957, Volume 6: Theory of Games, Astrophysics, Hydrodynamics and Meteorology [location=Elmsford, New York. Pergamon Press. pp. 219–237. ISBN 978-0-08-009566-0. OCLC 493423386.
+von Neumann, John (1963b) [1st pub. April 1, 1942]. "Theory of Detonation Waves. Progress Report to the National Defense Research Committee Div. B, OSRD-549". In Taub, A. H. John von Neumann: Collected Works, 1903–1957, Volume 6: Theory of Games, Astrophysics, Hydrodynamics and Meteorology (PDF). New York: Pergamon Press. pp. 205–218. ISBN 978-0-08-009566-0. OCLC 493423386. Retrieved 19 May 2016.
+von Neumann, John (2005). Rédei, Miklós, ed. John von Neumann: Selected letters. History of Mathematics. 27. American Mathematical Society. ISBN 0-8218-3776-1.
+Wigner, Eugene Paul; Mehra, Jagdish; Wightman, A. S. (1995). Volume 7, Part B, Philosophical Reflections and Syntheses. Berlin: Springer. ISBN 3-540-63372-3.
+Ye, Yinyu (1997). "The von Neumann growth model". Interior point algorithms: Theory and analysis. New York: Wiley. pp. 277–299. ISBN 978-0-471-17420-2. OCLC 36746523.
+PD-icon.svgThis article is based on material taken from the Free On-line Dictionary of Computing prior to 1 November 2008 and incorporated under the "relicensing" terms of the GFDL, version 1.3 or later.
+Further reading[edit]
+Books
+Aspray, William (1990). John von Neumann and the Origins of Modern Computing. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01121-1. OCLC 21524368.
+Dore, Mohammed; Sukhamoy, Chakravarty; Goodwin, Richard, eds. (1989). John Von Neumann and modern economics. Oxford: Clarendon. ISBN 978-0-19-828554-0. OCLC 18520691.
+Halmos, Paul R. (1985). I Want To Be A Mathematician: an Automathography. New York: Springer-Verlag. ISBN 978-0-387-96078-4. OCLC 11497873.
+Israel, Giorgio; Ana Millan Gasca (2009). The World as a Mathematical Game: John von Neumann, Twentieth Century Scientist. Birkhäuser: Basel. ISBN 978-3-7643-9896-5. OCLC 318641638.
+von Neumann Whitman, Marina (2012). The Martian's Daughter—A Memoir. Anne Arbor: University of Michigan Press. ISBN 978-0-472-03564-9. OCLC 844308382.
+Redei, Miklos, ed. (2005). John von Neumann: Selected Letters. Providence, Rhode Island: American Mathematical Society. ISBN 978-0-8218-3776-4. OCLC 60651134.
+Slater, Robert (1989). Portraits in Silicon. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-19262-0. OCLC 15630421.
+Rockafellar, R. Tyrrell (1967). Monotone Processes of Convex and Concave Type. Memoirs of the American Mathematical Society. Providence, Rhode Island: American Mathematical Society. ISBN 0-8218-1277-7. OCLC 1318941.
+Vonneuman, Nicholas A. (1987). John von Neumann as Seen by His Brother. Meadowbrook, Pennsylvania: N.A. Vonneuman. ISBN 0-9619681-0-9. OCLC 17547196.
+Popular periodicals
+Good Housekeeping Magazine, September 1956, "Married to a Man Who Believes the Mind Can Move the World"
+Video
+John von Neumann, A Documentary (60 min.), Mathematical Association of America
+External links[edit]
+	Wikimedia Commons has media related to John von Neumann.
+	Wikiquote has quotations related to: John von Neumann
+	Biography portal
+icon	Economics portal
+	History of Science portal
+	Hungary portal
+icon	Mathematics portal
+	Nuclear technology portal
+icon	Physics portal
+	Set theory portal
+	World War II portal
+O'Connor, John J.; Robertson, Edmund F., "John von Neumann", MacTutor History of Mathematics archive, University of St Andrews.
+von Neumann's contribution to economics[dead link] — International Social Science Review
+von Neumann's profile at Google Scholar
+Oral history interview with Alice R. Burks and Arthur W. Burks, Charles Babbage Institute, University of Minnesota, Minneapolis. Alice Burks and Arthur Burks describe ENIAC, EDVAC, and IAS computers, and John von Neumann's contribution to the development of computers.
+Oral history interview with Eugene P. Wigner, Charles Babbage Institute, University of Minnesota, Minneapolis.
+Oral history interview with Nicholas C. Metropolis, Charles Babbage Institute, University of Minnesota.
+Von Neumann vs. Dirac — from Stanford Encyclopedia of Philosophy
+Von Neumann's Universe, audio talk by George Dyson
+John von Neumann's 100th Birthday, article by Stephen Wolfram on von Neumann's 100th birthday.
+Annotated bibliography for John von Neumann from the Alsos Digital Library for Nuclear Issues
+Budapest Tech Polytechnical Institution — John von Neumann Faculty of Informatics
+John von Neumann speaking at the dedication of the NORD, December 2, 1954 (audio recording)
+Citation Accompanying Medal of Freedom, The American Presidency Project
+John von Neumann (1903–1957). The Concise Encyclopedia of Economics. Library of Economics and Liberty (2nd ed.). Liberty Fund. 2008.
+Biography of John von Neumann from the Institute for Operations Research and the Management Sciences
+[show] v t e
+Manhattan Project
+[show] v t e
+Set theory
+Authority control	
+WorldCat Identities VIAF: 99899730 LCCN: n50021202 ISNI: 0000 0001 1031 6592 GND: 118770314 SELIBR: 100269 SUDOC: 027046605 BNF: cb11917576c (data) BPN: 99135541 MGP: 53213 NLA: 35584389 NDL: 00459885 NKC: jn20030402008 BNE: XX1047593
+Categories: 1903 births1957 deaths20th-century American mathematicians20th-century physicistsAmerican agnosticsAmerican anti-communistsAmerican computer scientistsAmerican nuclear physicistsAmerican operations researchersAmerican people of Hungarian descentAmerican people of Hungarian-Jewish descentAmerican Roman CatholicsAustrian nobilityAustro-Hungarian mathematiciansBurials at Princeton CemeteryDeaths from cancer in Washington, D.C.Carl-Gustaf Rossby Research Medal recipientsCellular automatistsComputer designersConverts to Roman Catholicism from JudaismEnrico Fermi Award recipientsETH Zurich alumniFellows of the Econometric SocietyFunctional analystsGame theoristsHungarian agnosticsHungarian anti-communistsHungarian computer scientistsHungarian emigrants to the United StatesHungarian inventorsHungarian JewsHungarian mathematiciansHungarian nobilityHungarian nuclear physicistsHungarian Roman CatholicsInstitute for Advanced Study facultyLattice theoristsManhattan Project peopleMathematical economistsMathematical physicistsMeasure theoristsMedal for Merit recipientsMembers of the United States National Academy of SciencesJewish agnosticsJewish American scientistsJewish inventorsJewish physicistsMental calculatorsMonte Carlo methodologistsPeople from Pest, HungaryPeople who emigrated to escape NazismPresidential Medal of Freedom recipientsPresidents of the American Mathematical SocietyPrinceton University facultyRAND Corporation peopleProbability theoristsSet theoristsSigma XiJohn von Neumann
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inArticleTalkReadEditView historySearch
