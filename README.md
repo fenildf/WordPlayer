@@ -2,12 +2,13 @@
   
 ![WordPlayer](./wordplayer.png)
 
+# ![intro](https://raw.githubusercontent.com/clouduan/Flags-Ideas-Temp/master/Icons/002-yuan.png) Introduction
+
 `setup.py` 为主程序.  
 `Texts` 存放英文文本(格式必须是utf-8编码不带BOM)，及程序从中分析出的单词     
 `Users` 存放用户信息，及用户的专用词库   
 `Lexicon` 存放单词词库，包括四六级单词，及用户定义的词库(必须是utf-8编码格式不带BOM) 
 
-# ![intro](https://raw.githubusercontent.com/clouduan/Flags-Ideas-Temp/master/Icons/002-yuan.png) Introduction
 ## 1.启动    
 推荐在idle中打开`setup.py`并运行，不推荐在terminal运行（注意要在程序所在目录运行，否则会导致文件的相对路径出错！）   
 ## 2.登录   
