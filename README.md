@@ -2,7 +2,7 @@
   
 ![WordPlayer](./wordplayer.png)
 
-# ![intro](https://raw.githubusercontent.com/clouduan/Flags-Ideas-Temp/master/Icons/40x40/002-yuan.png) Introduction
+# ![intro](https://raw.githubusercontent.com/clouduan/Flags-Ideas-Temp/master/Icons/32x32/002-yuan.png) Introduction
 
 `setup.py` 为主程序.  
 `Texts` 存放英文文本(格式必须是utf-8编码不带BOM)，及程序从中分析出的单词     
@@ -23,6 +23,6 @@
 ## 6.析词   
 点击`功能`-`分析`，选取一篇文本，即可分析出里面的四六级单词并保存（在./Texts文件夹下），一般等待时长为5~10秒左右。   
 
-# ![license](https://github.com/clouduan/Flags-Ideas-Temp/blob/master/Icons/40x40/001-license-1.png) License
+# ![license](https://github.com/clouduan/Flags-Ideas-Temp/blob/master/Icons/32x32/001-license-1.png) License
 
 [MIT](https://github.com/clouduan/WordPlayer/blob/master/LICENSE)
